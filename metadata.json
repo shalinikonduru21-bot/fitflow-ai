@@ -1,0 +1,8 @@
+{
+  "name": "Fit Flow AI - Revolutionary AI Fitness Coach",
+  "description": "An intelligent fitness platform featuring real-time computer vision form analysis, AI-driven voice coaching, and personalized workout routines that adapt to your physical needs and disabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
